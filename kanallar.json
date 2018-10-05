@@ -1,12 +1,12 @@
 ﻿{"kanallar":[
 	{
 		"kanalId":1,
-		"kanalKategoriId":"",
-		"kanalAdi":"Doe",
+		"kanalKategoriId":"Sifreli1",
+		"kanalAdi":"Kanal D",
 		"kanalResim":"",
 		"kanalUrl":"",
-		"kanalAciklama":"",
-		"kanalDil":"",
+		"kanalAciklama":"Türkiye Yerel Kanalıdır.",
+		"kanalDil":"Türkçe",
 	}
 	
 ]}
